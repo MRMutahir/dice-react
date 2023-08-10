@@ -1,0 +1,71 @@
+.diceHeading{
+ /* margin-left: 80%; */
+ margin-top: 200px;
+ font-size: 52px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.playbtn{
+  width: 150px;
+  height: 30px;
+  background-color: black;
+  color:white;
+  /* margin-top: 260px;
+  margin-right: 200px; */
+  position: absolute;
+  top: 330px;
+  left: 80%;
+}
+.dicesection{
+  display: flex;
+  justify-content: space-around;
+  margin: 60px;
+}
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+  /* height: 200px; */
+  margin-left: 60%;
+  margin-top: 20px;
+  
+}
+.navItem{
+  border: 1px solid black;
+  padding: 20px;
+margin: 10px;
+}
+.scorebar{
+  font-size: 32px;
+  font-family: monospace;
+  text-align: center;
+  width: 200px;
+  /* margin-top: 40px; */
+  position: absolute;
+  margin-top: 20px;
+}
+.selectnum{
+  position: absolute;
+  left: 80%;
+  font-weight: 900;
+  font-size: 22px;
+}
+.navitem4{
+  background-color: black;
+  color: white;
+}
+.diceOne {
+  margin-left: 40%;
+  margin-top: 60px;
+}
+.diceOne button{
+  text-align: center;
+  margin-left: 80px;
+  margin-top: 40px;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: 900;
+}
+.ShowRules {
+  background: black;
+  color: white;
+}
